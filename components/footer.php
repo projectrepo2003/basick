@@ -24,6 +24,7 @@
             <li><a href="courses.php">Courses</a></li>
             <li><a href="teachers.php">Teachers</a></li>
             <li><a href="contact.php">Contact Us</a></li>
+            <li><a href="admin/login.php">Admin</a></li>
         </ul>
         <p>2024 Basick | Nida, Pranav & Hamza</p>
     </footer>
